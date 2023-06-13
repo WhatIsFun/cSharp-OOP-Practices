@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\bin\Debug\net6.0\cSharp-OOP-Practices.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\bin\Debug\net6.0\cSharp-OOP-Practices.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\bin\Debug\net6.0\cSharp-OOP-Practices.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\bin\Debug\net6.0\cSharp-OOP-Practices.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\bin\Debug\net6.0\cSharp-OOP-Practices.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\refint\cSharp-OOP-Practices.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\cSharp-OOP-Practices.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOP-Practices\cSharp-OOP-Practices\obj\Debug\net6.0\ref\cSharp-OOP-Practices.dll
